@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "firstName": "Food",
+  "lastName": "India",
+  "phone": "6303302424",
+  "profession": "Business Owner",
+  "location": {
+    "state": "telangana",
+    "district": "hyderabad",
+    "subdistrict": "khairatabad",
+    "village": "khairatabad-khairatabad-hyderabad-telangana-500004"
+  },
+  "gallery": [],
+  "videos": [],
+  "village": "khairatabad-khairatabad-hyderabad-telangana-500004",
+  "profileImage": "",
+  "about": "",
+  "social": [],
+  "slides": [],
+  "business": {
+    "slides": [],
+    "categories": []
+  }
+}
